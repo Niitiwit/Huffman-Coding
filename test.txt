@@ -1,0 +1,5 @@
+This test.txt is the sample file using in presentation of Huffman coding file compression and decompression
+The Huffman coding using Greedy Method Algorithm to implement the lossless files compression by using the count
+of same alphabet and transform them into binary number then add it into the Huffman tree to give them-
+the position as 0 or 1 the head node will be 0 and parents add 0 and 1 and children node will be 0 and 1 and so on
+Till all alphabet getting the binary after that the lossless compression will be performed as that
